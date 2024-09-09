@@ -1,0 +1,41 @@
+body,html{
+    background-color:black;
+    
+}
+.command{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.elements{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 15px;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-shadow: 1.5px 1.5px white;
+}
+.ele{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    opacity: 0.3;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.btn-large{
+    margin-top: 5px;
+    width: 300px;
+    height: 70px;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: whitesmoke;
+    background-color: black;
+    color: whitesmoke;
+}
